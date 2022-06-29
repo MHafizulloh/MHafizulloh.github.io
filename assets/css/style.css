@@ -1,0 +1,41 @@
+
+#jumbotron {
+    background-color: rgba(17, 165, 118, 0.503); 
+}
+
+#jumbotron h1,h2{
+    margin-bottom: 50px;
+    text-shadow: 5px 5px 5px darkcyan;
+    color: white;
+}
+
+#jumbotron img {
+    height: 200px;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+#about {
+
+    background-color: rgba(227, 133, 19, 0.722);
+}
+#about h4{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+
+#galery {
+    background-color: rgba(76, 86, 228, 0.681);
+}
+
+#galery h4{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#galery img {
+   height: 100px;
+   margin-bottom: 15px;
+}
